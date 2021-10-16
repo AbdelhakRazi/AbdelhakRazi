@@ -1,6 +1,6 @@
 ### Hi there, 👋
-# It's Abdelhak ! CS Student,Mobile developer and Graphic designer  
+# It's Abdelhak ! CS Student, Mobile Apps developer (Flutter) and Graphic designer  
 
-- 🌱 I’m currently learning everything xD
-- 👯 I’m looking to collaborate on projects,hackathons 
+- 🌱 Experienced Flutter developer.
+- 👯 Data Science, DevOps enthusiast and web dev beginner. 
 - 📥 Reach me out : ja_razi@esi.dz 
