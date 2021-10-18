@@ -1,5 +1,5 @@
 ### Hi there, 👋
-# It's Abdelhak ! CS Student, Mobile Apps developer (Flutter) and Graphic designer  
+# It's Abdelhak ! CS Student, Mobile Apps developer (Flutter) and UX/UI Designer 
 
 - 🌱 Experienced Flutter developer.
 - 👯 Data Science, DevOps enthusiast and web dev beginner. 
