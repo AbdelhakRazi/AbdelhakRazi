@@ -1,5 +1,5 @@
 ### Hi there, 👋
-# It's Abdelhak ! Software engineer and UX/UI Designer 
+# I'm Abdelhak ! Software engineer and UX/UI Designer 
 
 - 🌱 Experienced Flutter developer.
 - 👯 Addict about software design systems & DevOps. 
