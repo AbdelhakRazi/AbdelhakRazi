@@ -1,8 +1,9 @@
 ### Hi there, 👋
-# I'm Abdelhak ! Software engineer and UX/UI Designer 
-### :woman_technologist: About me :
+# I'm Abdelhak Razi !
+
 - 🌱 I'm a Software Engineering Student and Data Science/Machine Learning Enthusiast
 - 👯 I work as a freelancer in mobile development and UX design.
+
 ## Skills
 
 Here are some of the skills and technologies that I'm familiar with:
@@ -43,7 +44,7 @@ Here are some stats about my activity on GitHub:
 
 ## Contact Me
 
-If you'd like to get in touch with me, you can:- Send me an email at [your email address](mailto:razi.contact3@gmail.com)
+If you'd like to get in touch with me, you can:- Send me an email at [razi.contact3@gmail.com](mailto:razi.contact3@gmail.com)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/abdelhak-razi/)
 
 Thanks for visiting my GitHub profile!
