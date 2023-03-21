@@ -1,9 +1,17 @@
 ### Hi there, 👋
 # I'm Abdelhak ! Software engineer and UX/UI Designer 
-### :hammer_and_wrench: About me :
-- 🌱 Experienced Flutter developer.
-- 👯 Sotware design systems & DevOps addict. 
-- 📥 Reach out : razi.contact3@gmail.com 
+### :woman_technologist: About me :
+- 🌱 I'm a Software Engineering Student and Data Science/Machine Learning Enthusiast
+- 👯 I work as a freelancer in mobile development and UX design.
+## Skills
+
+Here are some of the skills and technologies that I'm familiar with:
+
+- Programming languages: Python, Java, JavaScript, Scala
+- Data Science/Machine Learning: Pandas, NumPy, Scikit-learn, Matplotlib
+- Mobile Development: Flutter
+- UX Design: Figma, Adobe XD
+- Version Control: Git, GitHub
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -23,5 +31,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>&nbsp;
-
 </div>
+
+## GitHub Stats
+
+Here are some stats about my activity on GitHub:
+
+[![AbdelhakRazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelhakRazi&show_icons=true&theme=dark)](https://github.com/AbdelhakRazi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhakRazi&layout=compact&theme=dark)](https://github.com/AbdelhakRazi/github-readme-stats)
+
+## Contact Me
+
+If you'd like to get in touch with me, you can:- Send me an email at [your email address](mailto:razi.contact3@gmail.com)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/abdelhak-razi/)
+
+Thanks for visiting my GitHub profile!
