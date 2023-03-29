@@ -44,7 +44,8 @@ Here are some stats about my activity on GitHub:
 
 ## Contact Me
 
-If you'd like to get in touch with me, you can:- Send me an email at [razi.contact3@gmail.com](mailto:razi.contact3@gmail.com)
+If you'd like to get in touch with me, you can: 
+- Send me an email at [razi.contact3@gmail.com](mailto:razi.contact3@gmail.com)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/abdelhak-razi/)
 
 Thanks for visiting my GitHub profile!
