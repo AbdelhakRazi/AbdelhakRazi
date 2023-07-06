@@ -1,7 +1,7 @@
 ### Hi there, 👋
 # I'm Abdelhak Razi !
 
-- 🌱 I'm a Software Engineering Student and Data Science/Machine Learning Enthusiast
+- 🌱 I'm a Networking and IoT student
 - 👯 I work as a freelancer in mobile development and UX design.
 
 ## Skills
