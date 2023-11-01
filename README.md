@@ -1,18 +1,13 @@
 ### Hi there, 👋
 # I'm Abdelhak Razi !
 
-- 🌱 I'm a Networking and IoT student
-- 👯 I work as a freelancer in mobile development and UX design.
-
+- 🌱 Software developer and tester with Ericsson
 ## Skills
 
-Here are some of the skills and technologies that I'm familiar with:
-
-- Programming languages: Python, Java, JavaScript, Scala
-- Data Science/Machine Learning: Pandas, NumPy, Scikit-learn, Matplotlib
-- Mobile Development: Flutter
-- UX Design: Figma, Adobe XD
-- Version Control: Git, GitHub
+- Mastery of Java, C++, C, Dart and OOP apps development.
+- Certified Google UX Designer
+- Significant knowledge in Javascript and Web apps development using ReactJS, NextJS, NodeJs
+- Basic knowledge in Artificial intelligence modules, mainly supervised and unsupervised learning, fully tested using Python libraries
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
