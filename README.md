@@ -4,7 +4,7 @@
 - 🌱 Software developer and tester with Ericsson
 ## Skills
 
-- Mastery of Java, C++, C, Dart and OOP apps development.
+- Java, C++, C, Dart and OOP apps development.
 - Certified Google UX Designer
 - Significant knowledge in Javascript and Web apps development using ReactJS, NextJS, NodeJs
 - Basic knowledge in Artificial intelligence modules, mainly supervised and unsupervised learning, fully tested using Python libraries
