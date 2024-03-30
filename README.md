@@ -33,7 +33,7 @@
 
 Here are some stats about my activity on GitHub:
 
-[![AbdelhakRazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelhakRazi&show_icons=true&theme=dark)](https://github.com/AbdelhakRazi/github-readme-stats)
+[![AbdelhakRazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelhakRazi&show_icons=true&theme=dark)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhakRazi&layout=compact&theme=dark)](https://github.com/AbdelhakRazi/github-readme-stats)
 
