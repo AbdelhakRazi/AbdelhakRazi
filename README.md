@@ -43,4 +43,4 @@ If you'd like to get in touch with me, you can:
 - Send me an email at [razi.contact3@gmail.com](mailto:razi.contact3@gmail.com)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/abdelhak-razi/)
 
-Thanks for visiting my GitHub profile!
+Thanks for visiting my GitHub profile and have a nice day!
