@@ -35,7 +35,7 @@ Here are some stats about my activity on GitHub:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelhakrazi&theme=tokyonight)](https://github.com/abdelhakrazi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhakRazi&layout=compact)](https://github.com/AbdelhakRazi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhakRazi&layout=compact&theme=tokyonight)](https://github.com/AbdelhakRazi/github-readme-stats)
 
 ## Contact Me
 
