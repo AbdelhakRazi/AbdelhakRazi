@@ -1,13 +1,14 @@
 ### Hi there, 👋
 # I'm Abdelhak Razi !
 
-- 🌱 Software developer and tester with Ericsson
+- 🌱 Software developer and tester at Ericsson
 ## Skills
 
-- Java, C++, C, Dart and OOP apps development.
-- Certified Google UX Designer
-- Significant knowledge in Javascript and Web apps development using ReactJS, NextJS, NodeJs
-- Basic knowledge in Artificial intelligence modules, mainly supervised and unsupervised learning, fully tested using Python libraries
+- Java, Spring, Spring boot, PostgreSQL and MySQL.
+- C++, C, gTest, gMock.
+- Dart, Flutter, Firebase and Supabase.
+- Javascript, ReactJS, NodeJS and ExpressJS.
+- AI/ML, Deep learning, Networks and Wireless communications.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
