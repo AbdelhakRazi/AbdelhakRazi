@@ -6,6 +6,7 @@
 
 - C++, C, Google test, Google mock and Protobuf
 - Java, Spring boot, MySQL and PostgreSQL
+- Jenkins, Docker, Kubernetes
 - Dart, Flutter, Firebase and Supabase 
 - Javascript, ReactJS, NodeJS and ExpressJS
 - AI/ML, Deep learning, Networks and Wireless communications
