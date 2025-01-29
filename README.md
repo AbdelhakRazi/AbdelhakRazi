@@ -3,7 +3,7 @@
 
 🚀 **Junior Software Engineer** | **Backend & C++ Enthusiast** | **5G & Networking**  
 
-I'm a **software engineer** in my final year of a master's program, currently working at **Ericsson**. My experience spans **C++ software development for 5G (Layer 3), security automation in Java, and backend development**. I'm passionate about **high-performance systems, backend engineering, and network software**.  
+I'm a **software engineer** in my final year of a master's program, currently working at **Ericsson**. My experience spans **C++ and Erlang software development for 5G, security automation in Java, and backend development**. I'm passionate about **high-performance systems, backend engineering, and network software**.  
 
 ## 💡 What I Do  
 - **C++ Software Engineering** – Developing networking and telecom solutions, optimizing Layer 3 of 5G.  
