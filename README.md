@@ -1,4 +1,5 @@
-### Hi there, 👋 I'm Abdelhak Razi!  
+### Hi there, 👋 
+## I'm Abdelhak Razi!  
 
 🚀 **Junior Software Engineer** | **Backend & C++ Enthusiast** | **5G & Networking**  
 
@@ -26,10 +27,6 @@ I'm open to **C++ Software Engineering**, **Backend Development**, and **Telecom
 - **Docker, Kubernetes** (Basic knowledge about k8s)  
 - **Jenkins** (CI/CD pipelines)  
 - **Firebase, Supabase** (Cloud databases)  
-
-### **Networking & Systems:**  
-- **Linux, Wireless Communications, 5G L3 and AI/ML/DL**
----
 
 ## 📊 GitHub Stats  
 
