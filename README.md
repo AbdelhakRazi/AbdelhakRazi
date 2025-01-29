@@ -1,17 +1,17 @@
 ### Hi there, 👋 
 ## I'm Abdelhak Razi!  
 
-🚀 **Junior Software Engineer** | **Backend & C++ Enthusiast** | **5G & Networking**  
+**Junior Software Engineer**
 
 I'm a **software engineer** in my final year of a master's program, currently working at **Ericsson**. My experience spans **C++ and Erlang software development for 5G, security automation in Java, and backend development**. I'm passionate about **high-performance systems, backend engineering, and network software**.  
 
-## 💡 What I Do  
-- **C++ Software Engineering** – Developing networking and telecom solutions, optimizing Layer 3 of 5G.  
-- **Backend Development** – Building APIs with Spring Boot, PostgreSQL, and distributed systems.  
-- **Security & Automation** – Built security tests in Java and automated them using industry-standard libraries.  
+## What I currently do at Ericsson and University
+**Software Engineering** – Developing high-performance networking and telecom solutions, optimizing protocols and system efficiency.
+**Backend Development** – Designing and building scalable APIs, working with databases, and architecting distributed systems.
+**Security & Automation** – Implementing security testing and automating workflows using industry-standard tools and frameworks.
 
 ## 🔍 What I'm Interested In  
-I'm open to **C++ Software Engineering**, **Backend Development**, and **Telecom/Networking roles**—especially those focusing on **high-performance systems, networking, and distributed computing**.  
+I'm open to **Software Engineering**, **Backend Development**, and **Networking/Infrastructure roles**—especially those focusing on building **high-performance systems, distributed computing, cloud native environments**.  
 
 ---
 
