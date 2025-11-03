@@ -1,6 +1,6 @@
 ### Hi there, 👋 
 ## I'm Abdelhak Razi!  
-I'm a **software engineer** in my final year of a master's program, currently working at **Ericsson**. My experience spans **C++ and Erlang software development for 5G, security automation in Java, and backend development**. I'm passionate about **high-performance systems, backend engineering, and network software**.  
+I'm a **software engineer** in my final year of a master's program, currently working at **Amadeus**. My experience spans **C++ for 5G Networks development, security automation in Java, and backend development**. I'm passionate about **System design and building modern high performing software**.  
 
 ## What I currently do at Ericsson and University
 **Software Engineering** – Developing high-performance networking software, evolving around C/C++, Java and Python.
